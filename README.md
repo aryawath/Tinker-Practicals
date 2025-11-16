@@ -7,12 +7,13 @@ This repository contains my first semester **Tinker Lab** practicals for **B.Tec
 | Experiment No. | Title |
 |----------------|-------------------------------------------------------|
 | 01             | HTML Code for My First Webpage                        |
-| 02             | Registration Page                                     |
-| 03             | Popular Programming Languages                         |
-| 04             | LinkedIn Portfolio                                    |
-| 05             | News Portal                                           |
-| 06             | Excel Sheet                                           |
-| 07             | Tinkercad                                             |
+| 02             | HTML Table                                            |
+| 03             | Registration Page                                     |
+| 04             | Popular Programming Languages                         |
+| 05             | LinkedIn Portfolio                                    |
+| 06             | News Portal                                           |
+| 07             | Excel Sheet                                           |
+| 08             | Tinkercad                                             |
 
 ---
 
