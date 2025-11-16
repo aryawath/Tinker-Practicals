@@ -2,7 +2,7 @@
 
 This repository contains my first semester **Tinker Lab** practicals for **B.Tech CSE**.
 
-## 📁 List of Experiments
+##  List of Experiments
 
 | Experiment No. | Title |
 |----------------|-------------------------------------------------------|
@@ -16,6 +16,6 @@ This repository contains my first semester **Tinker Lab** practicals for **B.Tec
 
 ---
 
-## 📌 Notes
+##  Notes
 - Each experiment has its own folder containing the required files (code, screenshots, PDF, or output images).
 - This repository will be updated as more experiments are completed.
